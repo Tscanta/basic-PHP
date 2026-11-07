@@ -1,3 +1,5 @@
 <?php
-echo "Hello World";
+    echo "Whats your name: ";
+    $name=readline();
+    echo "Hello ".$name;
 ?>
