@@ -1,7 +1,7 @@
 <?php 
 
 $top = 0;
-$stack = [];
+$stack = [10];
 
 function push ($x)
 {
